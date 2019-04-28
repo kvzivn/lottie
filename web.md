@@ -73,7 +73,7 @@ lottie.loadAnimation({
 ```
 
 ## Usage
-animation instances have these main methods:
+animation instances have these main methods: <br/>
 **anim.play()** <br/>
 **anim.stop()** <br/>
 **anim.pause()** <br/>
